@@ -1,3 +1,3 @@
-*** Problem
+### Problem
 
 - https://leetcode.com/problems/merge-strings-alternately
